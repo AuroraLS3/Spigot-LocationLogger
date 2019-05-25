@@ -7,7 +7,7 @@ This Spigot-plugin was written for gathering spatial data for my Bachelor's degr
 >
 > The plugin is not recommended for use on a live server without modifications, as the database operations are performed on Spigot server thread, which blocks the thread from performing gameplay operations during database insert operations.
 
-The included database.db contains data gathered during one hour of gameplay.
+The included `database.db` and `world/` contain data gathered during one hour of gameplay.
 
 ## How it works
 
